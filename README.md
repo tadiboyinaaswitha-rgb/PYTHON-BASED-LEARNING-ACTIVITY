@@ -1,1 +1,11 @@
 # PYTHON-BASED-LEARNING-ACTIVITY
+project 1:"https://github.com/tadiboyinaaswitha-rgb/project-1.git",
+project 2:"https://github.com/tadiboyinaaswitha-rgb/project-2.git",
+project 3:"https://github.com/tadiboyinaaswitha-rgb/project-3.git",
+project 4:"https://github.com/tadiboyinaaswitha-rgb/project-4.git",
+project 5:"https://github.com/tadiboyinaaswitha-rgb/project-5.git",
+project 6:"https://github.com/tadiboyinaaswitha-rgb/project-6.git",
+project 7:"https://github.com/tadiboyinaaswitha-rgb/project-7.git",
+project 8:"https://github.com/tadiboyinaaswitha-rgb/project-8.git",
+project 9:"https://github.com/tadiboyinaaswitha-rgb/project-9.git",
+project 10:"https://github.com/tadiboyinaaswitha-rgb/project-10.git".
